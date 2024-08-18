@@ -1,3 +1,7 @@
 # Amazon-Clone
 
-Click [here](https://github.com/SurajSG23/Amazon-Clone/issues/1#issue-2468329029) to watch Amazon Demo
+Watch Demo:
+
+
+https://github.com/user-attachments/assets/737f5c42-d3d6-45d1-b0b0-7bcde986d7f2
+
